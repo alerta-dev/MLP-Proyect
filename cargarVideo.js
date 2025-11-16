@@ -10,7 +10,7 @@ fetch("./videos.json")
     // Generar lista de capítulos
     data.forEach((cap, index) => {
       const item = document.createElement("div");
-      item.className = "capitulo-item";
+      item.className = "playlist-section";
       item.textContent = cap.title;
 
       // Al hacer clic, cambiar video
