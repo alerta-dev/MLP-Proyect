@@ -1,22 +1,24 @@
-            {
-                title: "Episodio 1 - El Comienzo",
-                "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-                type: "url"
-            },
-            {
-                title: "Episodio 1 - El Comienzo",
-                url: "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-                type: "url"
-            },
-            {
-                title: "Episodio 2 - La Aventura Continúa",
-                url: "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
-                type: "url"
-            },
-            {
-                title: "Episodio 3 - El Desenlace",
-                url: "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-                type: "url"
-            }
-            // Agrega más capítulos aquí siguiendo el mismo formato
+[
+  {
+    "title": "Episodio 1 - El Comienzo",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "type": "url"
+  },
+  {
+    "title": "Episodio 1 - El Comienzo",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "type": "url"
+  },
+  {
+    "title": "Episodio 2 - La Aventura Continúa",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "type": "url"
+  },
+  {
+    "title": "Episodio 3 - El Desenlace",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "type": "url"
+  }
+]
+
 
