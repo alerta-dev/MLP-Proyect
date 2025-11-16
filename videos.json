@@ -1,4 +1,4 @@
-        let chapters = [
+
             {
                 title: "Episodio 1 - El Comienzo",
                 url: "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
@@ -15,4 +15,4 @@
                 type: "url"
             }
             // Agrega más capítulos aquí siguiendo el mismo formato
-        ];
+
