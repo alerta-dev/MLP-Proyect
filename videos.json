@@ -1,4 +1,8 @@
-
+            {
+                title: "Episodio 1 - El Comienzo",
+                "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                type: "url"
+            },
             {
                 title: "Episodio 1 - El Comienzo",
                 url: "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
