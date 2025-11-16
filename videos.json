@@ -1,3 +1,18 @@
-{
-  "video": "https://videos2.sendvid.com/fa/49/k7sgg6jl.mp4?validfrom=1763282869&validto=1763297269&rate=250k&ip=200.123.46.109&hash=vBjFEWo7H4Xa%2FLFXhGBqtxtw2XI%3D"
-}
+        let chapters = [
+            {
+                title: "Episodio 1 - El Comienzo",
+                url: "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                type: "url"
+            },
+            {
+                title: "Episodio 2 - La Aventura Continúa",
+                url: "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+                type: "url"
+            },
+            {
+                title: "Episodio 3 - El Desenlace",
+                url: "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+                type: "url"
+            }
+            // Agrega más capítulos aquí siguiendo el mismo formato
+        ];
